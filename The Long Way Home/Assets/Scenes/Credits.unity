@@ -224,7 +224,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 40.225}
+  m_AnchoredPosition: {x: 0, y: 55}
   m_SizeDelta: {x: 216.2, y: 40.551}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &622187848
@@ -598,7 +598,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 25, y: -100}
+  m_AnchoredPosition: {x: 25, y: -80}
   m_SizeDelta: {x: 625.9, y: 72.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1275462374
@@ -788,7 +788,7 @@ MonoBehaviour:
 
     Found on OpenGameArt.org
 
-    Beta Tested by:
+    Beta Tested by: Haysam Awan, Tejas Mengle, malaika uzoebo
 
     Made for Festival Of Code 2018'
   m_isRightToLeft: 0
@@ -818,10 +818,10 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 25
-  m_fontSizeBase: 25
+  m_fontSize: 26.65
+  m_fontSizeBase: 30
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -859,10 +859,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1576638899}
-    characterCount: 184
+    characterCount: 226
     spriteCount: 0
-    spaceCount: 30
-    wordCount: 34
+    spaceCount: 36
+    wordCount: 40
     linkCount: 0
     lineCount: 7
     pageCount: 1
