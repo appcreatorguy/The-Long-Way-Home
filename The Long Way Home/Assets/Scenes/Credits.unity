@@ -788,9 +788,9 @@ MonoBehaviour:
 
     Found on OpenGameArt.org
 
-    Beta Tested by: Haysam Awan, Tejas Mengle, malaika uzoebo
+    Beta Tested by: Haysam Awan, Tejas Mengle, Malaika Uzoebo
 
-    Made for Festival Of Code 2018'
+    Made for Festival Of Code 2018 and My First Game Jam'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7eece0fffac705040b06b36b6063e4fa, type: 2}
   m_sharedMaterial: {fileID: 21021714028503896, guid: 7eece0fffac705040b06b36b6063e4fa,
@@ -818,10 +818,10 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 26.65
-  m_fontSizeBase: 30
+  m_fontSize: 17
+  m_fontSizeBase: 17
   m_fontWeight: 400
-  m_enableAutoSizing: 1
+  m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -859,10 +859,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1576638899}
-    characterCount: 226
+    characterCount: 248
     spriteCount: 0
-    spaceCount: 36
-    wordCount: 40
+    spaceCount: 41
+    wordCount: 45
     linkCount: 0
     lineCount: 7
     pageCount: 1
